@@ -2,6 +2,7 @@
 AI model for detecting cyber-attacks using multiple data sources.
 
 # Cyber AI Threat Detection Model
+BEFORE THE BREACH:AI THAT SEES THE ATTACK COMING 
 
 This project is a multi-layered AI system designed to **predict cyberattacks before they occur** by integrating **network topology**, **user behavior**, and **system configuration data** into a unified threat detection model.
 
